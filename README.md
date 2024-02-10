@@ -21,7 +21,7 @@ Explica la estructura de directorios y archivos del proyecto.
 
 ## Uso
 
-seguir documentacion dada a continuacion: [[https://documenter.getpostman.com/view/19610022/2s9YytfLMX.] (https://documenter.getpostman.com/view/19610022/2s9YytfLMX)](https://identity.getpostman.com/handover/multifactor?user=19610022&handover_token=201c2df9-505b-4712-a4c6-49a0e3209e63)
+seguir documentacion dada a continuacion: https://documenter.getpostman.com/view/19610022/2s9Yyzdy77
 
 ## Contribución
 
